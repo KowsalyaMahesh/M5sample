@@ -6,7 +6,7 @@ public class TestNgTest {
 	
 		
 		System.out.println("Hello");
-
+		System.out.println("hi");
 	}
 
 }
