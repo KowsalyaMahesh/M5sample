@@ -8,6 +8,8 @@ public class TestNgTest {
 		System.out.println("Hello");
 		System.out.println("hi");
 		System.out.println("hi");
+		
+		System.out.println("TC_002");
 	}
 
 }
